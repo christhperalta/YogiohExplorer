@@ -2,10 +2,15 @@
 
 Esta es una aplicacion basica, en la caul podras buscar cartas de Yugioh.
 
-### Imagen 
+### Pantalla principal 
 <img width="383" height="794" alt="image" src="https://github.com/user-attachments/assets/4a785b6e-288a-4715-b285-2b2d6dbf3804" />
 
-### Imagenes en la cual utilizo IA
+<br/>
+
+
+### Imágenes en la cual utilizo IA
+
+<br/>
 
 <img width="1250" height="963" alt="image" src="https://github.com/user-attachments/assets/7781c735-2595-414d-bd12-7755a171cf6b" />
 
