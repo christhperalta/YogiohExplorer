@@ -1,18 +1,16 @@
 # YogiohExplorer
 
-A new Flutter project.
+Esta es una aplicacion basica, en la caul podras buscar cartas de Yugioh.
 
-## Getting Started
+### Imagen 
+<img width="383" height="794" alt="image" src="https://github.com/user-attachments/assets/4a785b6e-288a-4715-b285-2b2d6dbf3804" />
 
-This project is a starting point for a Flutter application.
+### Imagenes en la cual utilizo IA
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1250" height="963" alt="image" src="https://github.com/user-attachments/assets/7781c735-2595-414d-bd12-7755a171cf6b" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1192" height="976" alt="image" src="https://github.com/user-attachments/assets/0c8bc7fd-0c0c-46e9-994c-a52f8e2c4a37" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="836" height="668" alt="image" src="https://github.com/user-attachments/assets/67b0dbe6-9ef7-4aa5-b6d2-8443c748d841" />
 
 
