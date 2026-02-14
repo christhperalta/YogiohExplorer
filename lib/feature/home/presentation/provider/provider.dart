@@ -1,5 +1,5 @@
-import 'package:entrevista/feature/card_list/data/repository/card_repository_impl.dart';
-import 'package:entrevista/feature/card_list/domain/entities/card_entitiy.dart';
+import 'package:entrevista/feature/home/data/repository/card_repository_impl.dart';
+import 'package:entrevista/feature/home/domain/entities/card_entitiy.dart';
 import 'package:flutter/material.dart';
 
 class CardProvider extends ChangeNotifier {
@@ -26,7 +26,7 @@ class CardProvider extends ChangeNotifier {
     filteredList = cardList.where((item) {
       return item.name.toLowerCase().contains(newCard.toLowerCase());
     }).toList();
-
+    
     notifyListeners();
   }
 }

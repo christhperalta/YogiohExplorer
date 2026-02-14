@@ -1,5 +1,5 @@
-import 'package:entrevista/feature/card_list/presentation/provider/provider.dart';
-import 'package:entrevista/feature/card_list/presentation/screen/card_screen.dart';
+import 'package:entrevista/feature/home/presentation/provider/provider.dart';
+import 'package:entrevista/feature/home/presentation/screen/card_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Material App',
-        home: CardScreen(),
+        home: HomeScreen(),
       ),
     );
   }

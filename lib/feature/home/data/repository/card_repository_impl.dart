@@ -1,7 +1,7 @@
 
-import 'package:entrevista/feature/card_list/data/model/card_model.dart';
-import 'package:entrevista/feature/card_list/domain/entities/card_entitiy.dart';
-import 'package:entrevista/feature/card_list/domain/repository/card_list_repository.dart';
+import 'package:entrevista/feature/home/data/model/card_model.dart';
+import 'package:entrevista/feature/home/domain/entities/card_entitiy.dart';
+import 'package:entrevista/feature/home/domain/repository/card_list_repository.dart';
 import 'package:dio/dio.dart';
 
 class CardRepositoryImpl implements CardListRepository {

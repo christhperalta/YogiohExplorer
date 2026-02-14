@@ -1,4 +1,4 @@
-import 'package:entrevista/feature/card_list/domain/entities/card_entitiy.dart';
+import 'package:entrevista/feature/home/domain/entities/card_entitiy.dart';
 
 class CardModel extends CardEntitiy {
   CardModel({
